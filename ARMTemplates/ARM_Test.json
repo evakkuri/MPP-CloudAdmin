@@ -7,7 +7,7 @@
             "defaultValue": "testVnet",
             "minLength": 1
         },
-        "environment" {
+        "environment": {
             "type": "string",
             "defaultValue": "Dev",
             "allowedValues": [

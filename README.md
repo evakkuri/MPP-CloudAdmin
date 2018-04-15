@@ -9,5 +9,3 @@ Areas I will be focusing on:
 * Security
 
 More to be possibly added.
-
-TESTADDITION
